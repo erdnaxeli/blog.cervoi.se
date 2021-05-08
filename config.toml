@@ -1,0 +1,13 @@
+baseURL = "https://blog.cervoi.se/"
+languageCode = "en-us"
+title = "erdnaxeli's blog"
+theme = "etch"
+pygmentsCodeFences = true
+
+[params]
+  description = "Stuff about dev, Crystal, Matrix, and more."
+  copyright = "Copyright © 2021 erdnaxeli"
+  highlight = true
+
+[permalinks]
+  posts = "/:title/"
